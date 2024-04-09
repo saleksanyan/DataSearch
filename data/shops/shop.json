@@ -1,0 +1,1733 @@
+[
+  {
+    "shopID": 1,
+    "shopName": "VintageVista",
+    "owner": 1,
+    "address": "T56JmDnCjQcrvMUXXIUq",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      721,
+      897,
+      107,
+      977,
+      189,
+      140,
+      646
+    ]
+  },
+  {
+    "shopID": 2,
+    "shopName": "LushLabyrinth",
+    "owner": 2,
+    "address": "lGUUxfnqqOnsvrceCAzd",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      63,
+      726,
+      284,
+      464,
+      88
+    ]
+  },
+  {
+    "shopID": 3,
+    "shopName": "CuriousCrafts Haven",
+    "owner": 3,
+    "address": "1ALMre7ed5MDZbxpSwu8",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      351,
+      330,
+      442,
+      388,
+      565
+    ]
+  },
+  {
+    "shopID": 4,
+    "shopName": "GildedGrove",
+    "owner": 4,
+    "address": "r0JA1ahvRPxitTkZCxvP",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      191
+    ]
+  },
+  {
+    "shopID": 5,
+    "shopName": "Dazzling Dunes",
+    "owner": 5,
+    "address": "ED5Oj3rpb7RDcrLTtH6f",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      39,
+      794,
+      173,
+      665,
+      249,
+      165,
+      503
+    ]
+  },
+  {
+    "shopID": 6,
+    "shopName": "VintageWhispers",
+    "owner": 6,
+    "address": "acHrjfCRV25pixSFdLwE",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      895,
+      907,
+      825,
+      624,
+      488,
+      224,
+      148,
+      560,
+      937
+    ]
+  },
+  {
+    "shopID": 7,
+    "shopName": "CrystalCove",
+    "owner": 7,
+    "address": "QR8rKqIsFkxpdrLmBAZH",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      206,
+      787,
+      420,
+      6,
+      51
+    ]
+  },
+  {
+    "shopID": 8,
+    "shopName": "PoshPalette",
+    "owner": 8,
+    "address": "L2sUWMhvBsdaA9QPZfqU",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      249,
+      172,
+      655,
+      99,
+      767,
+      81,
+      257,
+      948
+    ]
+  },
+  {
+    "shopID": 9,
+    "shopName": "LuxeLane",
+    "owner": 9,
+    "address": "pxLMkk3LszMKoxfax9eV",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      794
+    ]
+  },
+  {
+    "shopID": 10,
+    "shopName": "Gemstone Galore",
+    "owner": 10,
+    "address": "JjsKjMot0de7MH8TGM6t",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      297,
+      165,
+      949,
+      727,
+      89,
+      544
+    ]
+  },
+  {
+    "shopID": 11,
+    "shopName": "VintageVista",
+    "owner": 11,
+    "address": "MAV8BDgyZd1CtmCPfJoL",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      440
+    ]
+  },
+  {
+    "shopID": 12,
+    "shopName": "BlissfulBoutique",
+    "owner": 12,
+    "address": "uLrA0ATXb9cUtxt0iNkm",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      91,
+      48,
+      561
+    ]
+  },
+  {
+    "shopID": 13,
+    "shopName": "EnchantingEmporium",
+    "owner": 13,
+    "address": "sCbIFCHf9FwMV5m8KS6J",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      77,
+      678,
+      397
+    ]
+  },
+  {
+    "shopID": 14,
+    "shopName": "HarmonyHaven",
+    "owner": 14,
+    "address": "xSxl7yK6xh95jenAwHLH",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      843,
+      522
+    ]
+  },
+  {
+    "shopID": 15,
+    "shopName": "TrendyTrinkets",
+    "owner": 15,
+    "address": "fQX6tnEMiGMdp6LubyIY",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 16,
+    "shopName": "MystiKraft",
+    "owner": 16,
+    "address": "capoVwVBVZK1SdYzVzpR",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 17,
+    "shopName": "GourmetGems",
+    "owner": 17,
+    "address": "eghYdDpcpysxjE5IKD1j",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      938,
+      624,
+      844,
+      150,
+      59,
+      535,
+      307,
+      41
+    ]
+  },
+  {
+    "shopID": 18,
+    "shopName": "RadiantRetro",
+    "owner": 18,
+    "address": "FI5W58wewHngRv3H9Sb5",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      581,
+      866,
+      720,
+      616,
+      632,
+      533,
+      631
+    ]
+  },
+  {
+    "shopID": 19,
+    "shopName": "WhimsyWagon",
+    "owner": 19,
+    "address": "xsy7JaXSN0K6DJ9sdDfb",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      118,
+      58,
+      609,
+      535,
+      148
+    ]
+  },
+  {
+    "shopID": 20,
+    "shopName": "MystiqueMosaic",
+    "owner": 20,
+    "address": "9SeVIzw96sD9mwOAJc2I",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      145,
+      648,
+      153,
+      992,
+      773,
+      192,
+      302,
+      370,
+      303
+    ]
+  },
+  {
+    "shopID": 21,
+    "shopName": "Renaissance Reverie",
+    "owner": 21,
+    "address": "NKkZ3sqbcK57mx734qo8",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      603,
+      38
+    ]
+  },
+  {
+    "shopID": 22,
+    "shopName": "UrbanElegance",
+    "owner": 22,
+    "address": "N0b1hROmkjQcsxOydiwD",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      554
+    ]
+  },
+  {
+    "shopID": 23,
+    "shopName": "Celestial Finds",
+    "owner": 23,
+    "address": "9fjRrX4l6RFD7IGlIloq",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      871,
+      565,
+      158,
+      356,
+      189,
+      384
+    ]
+  },
+  {
+    "shopID": 24,
+    "shopName": "WillowWhispers",
+    "owner": 24,
+    "address": "1KYgDMGmylyJc94R4YTB",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      89,
+      9,
+      475,
+      25,
+      774,
+      404,
+      306,
+      185,
+      185
+    ]
+  },
+  {
+    "shopID": 25,
+    "shopName": "EcoFusion Finds",
+    "owner": 25,
+    "address": "ZfWb7pNiu1YQ5RCIgZWE",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      844,
+      232,
+      472,
+      734,
+      322
+    ]
+  },
+  {
+    "shopID": 26,
+    "shopName": "TimelessAllure",
+    "owner": 26,
+    "address": "WzMuw9KLTAYr8RAV0x21",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      457,
+      880,
+      959,
+      824,
+      936,
+      700,
+      845
+    ]
+  },
+  {
+    "shopID": 27,
+    "shopName": "ChicVoyage",
+    "owner": 27,
+    "address": "w56ZDyhFFkONcObdsfpz",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      160,
+      290,
+      77,
+      225,
+      704
+    ]
+  },
+  {
+    "shopID": 28,
+    "shopName": "RusticRoots",
+    "owner": 28,
+    "address": "CZFHefqKaclx8cyrUoaV",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      191,
+      913,
+      186,
+      213,
+      499,
+      37,
+      351,
+      788,
+      932
+    ]
+  },
+  {
+    "shopID": 29,
+    "shopName": "CoastalMoods",
+    "owner": 29,
+    "address": "eLB9tIcIQ2HtSf7geqLf",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      333,
+      550,
+      75,
+      227
+    ]
+  },
+  {
+    "shopID": 30,
+    "shopName": "EnchantedGrove",
+    "owner": 30,
+    "address": "EtnGO5pBhFAZxxbQS5Ah",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      295,
+      510,
+      918,
+      162,
+      79,
+      935,
+      949,
+      524,
+      682
+    ]
+  },
+  {
+    "shopID": 31,
+    "shopName": "UrbanUtopia",
+    "owner": 31,
+    "address": "EYgzPWsdjTg5tdUCUhSb",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      515,
+      842,
+      66
+    ]
+  },
+  {
+    "shopID": 32,
+    "shopName": "TrendyTrinkets",
+    "owner": 32,
+    "address": "FpPccnVTdMJKES6gjwBV",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 33,
+    "shopName": "TrendyTrinkets",
+    "owner": 33,
+    "address": "4ECyNIRNsWYGYMMMAB9u",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      530,
+      953
+    ]
+  },
+  {
+    "shopID": 34,
+    "shopName": "TreasuresTraverse",
+    "owner": 34,
+    "address": "c1wjXi7oAUA3P8DiU81a",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      435,
+      881,
+      998,
+      35,
+      493,
+      924,
+      935,
+      465
+    ]
+  },
+  {
+    "shopID": 35,
+    "shopName": "BohemianBreeze",
+    "owner": 35,
+    "address": "3F8c5DuAJWuoyI1hETBl",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      957,
+      443,
+      549,
+      733,
+      630,
+      405,
+      625
+    ]
+  },
+  {
+    "shopID": 36,
+    "shopName": "WhimsyWave",
+    "owner": 36,
+    "address": "bFQlRhbb2YgyerVnKPUO",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      40,
+      505,
+      68,
+      194,
+      503,
+      29,
+      13,
+      209,
+      974
+    ]
+  },
+  {
+    "shopID": 37,
+    "shopName": "VintageWhispers",
+    "owner": 37,
+    "address": "zVFaHlSt9P3fOYvdYDyp",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      240
+    ]
+  },
+  {
+    "shopID": 38,
+    "shopName": "WanderlustWares",
+    "owner": 38,
+    "address": "3ko6zjqOYo6c7tjBceO8",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      255
+    ]
+  },
+  {
+    "shopID": 39,
+    "shopName": "StylishSail",
+    "owner": 39,
+    "address": "z6VdfGX9k8aLLCqJn4NW",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      183,
+      196
+    ]
+  },
+  {
+    "shopID": 40,
+    "shopName": "CuriousCrafts Haven",
+    "owner": 40,
+    "address": "fPSokfaLwXRuYi8GsD72",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 41,
+    "shopName": "ShopSavvy",
+    "owner": 41,
+    "address": "myWUPncEijB6snei3UCC",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      756,
+      260,
+      544,
+      453,
+      493,
+      126
+    ]
+  },
+  {
+    "shopID": 42,
+    "shopName": "EcoFusion Finds",
+    "owner": 42,
+    "address": "Aq7y1eWSVuzVzOSx640G",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      615
+    ]
+  },
+  {
+    "shopID": 43,
+    "shopName": "VintageVista",
+    "owner": 43,
+    "address": "P4LqYYTPD9EZ7vT1NciW",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      688,
+      367,
+      55
+    ]
+  },
+  {
+    "shopID": 44,
+    "shopName": "RadiantRendezvous",
+    "owner": 44,
+    "address": "XbFuQN0s4L3393YPaEfj",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      212,
+      291,
+      260,
+      685,
+      708,
+      410,
+      691,
+      840,
+      488,
+      881
+    ]
+  },
+  {
+    "shopID": 45,
+    "shopName": "GemstoneGatherings",
+    "owner": 45,
+    "address": "QA0qQnvpHMDmgOTKjVSZ",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 46,
+    "shopName": "UrbanPulse",
+    "owner": 46,
+    "address": "7yJEIfprLek1m5GWWZqY",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      407,
+      524
+    ]
+  },
+  {
+    "shopID": 47,
+    "shopName": "CraftedCurios",
+    "owner": 47,
+    "address": "S1Zm8b4BHuG6FvIbeOd6",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      221,
+      16
+    ]
+  },
+  {
+    "shopID": 48,
+    "shopName": "Wanderlust Emporium",
+    "owner": 48,
+    "address": "NEKfX4ulQ88yxIXBNntC",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 49,
+    "shopName": "The Hidden Gem Emporium",
+    "owner": 49,
+    "address": "gKZU2zM9xn2YsEkUHuYC",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      170,
+      617,
+      264,
+      32,
+      238,
+      665
+    ]
+  },
+  {
+    "shopID": 50,
+    "shopName": "ShopSavvy",
+    "owner": 50,
+    "address": "W3JvsgQFER6FtsNrnlFv",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 51,
+    "shopName": "BohoBoutique",
+    "owner": 51,
+    "address": "EwRvoP7shcRxqa4fuFwJ",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      888,
+      593,
+      450,
+      567
+    ]
+  },
+  {
+    "shopID": 52,
+    "shopName": "RusticRoots",
+    "owner": 52,
+    "address": "hQugno0Nv15QcKONexfi",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      258,
+      620,
+      373,
+      171,
+      464,
+      16,
+      109,
+      976,
+      490,
+      212
+    ]
+  },
+  {
+    "shopID": 53,
+    "shopName": "BohoBoulevard",
+    "owner": 53,
+    "address": "EU06q4x7rg8YXljcDUYp",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      546,
+      475,
+      419,
+      370,
+      224
+    ]
+  },
+  {
+    "shopID": 54,
+    "shopName": "Gemstone Galore",
+    "owner": 54,
+    "address": "deWbsn3Wd1pCVS4qh9EN",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      294,
+      936,
+      70,
+      715,
+      10,
+      404,
+      603,
+      927,
+      334
+    ]
+  },
+  {
+    "shopID": 55,
+    "shopName": "ChicVoyage",
+    "owner": 55,
+    "address": "YjiYWeBVbVvmRpw8cb8W",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      763,
+      969,
+      222,
+      709,
+      991
+    ]
+  },
+  {
+    "shopID": 56,
+    "shopName": "GemstoneGrove",
+    "owner": 56,
+    "address": "SXqVl8QZq4xweQqZdrVo",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      356,
+      606,
+      116,
+      378
+    ]
+  },
+  {
+    "shopID": 57,
+    "shopName": "UrbanNest",
+    "owner": 57,
+    "address": "EFzdOTVaoTSbWauZ7i5p",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 58,
+    "shopName": "CraftedCuriosities",
+    "owner": 58,
+    "address": "BQfziqgGYyPTAOBCthSx",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      392,
+      832,
+      620,
+      361,
+      486
+    ]
+  },
+  {
+    "shopID": 59,
+    "shopName": "UrbanUtopia",
+    "owner": 59,
+    "address": "Zr3V2b9zbymedruOha1H",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      881,
+      62,
+      780,
+      469,
+      610,
+      426,
+      453,
+      787,
+      989
+    ]
+  },
+  {
+    "shopID": 60,
+    "shopName": "VintageWhispers",
+    "owner": 60,
+    "address": "stNMuU8YL5MBx2fctvZF",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      319,
+      352,
+      223,
+      507,
+      900,
+      200,
+      696,
+      60,
+      415,
+      65
+    ]
+  },
+  {
+    "shopID": 61,
+    "shopName": "TreasuresTraverse",
+    "owner": 61,
+    "address": "FyCt6TGj2PFn8tBAWSNX",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 62,
+    "shopName": "UrbanUtopia",
+    "owner": 62,
+    "address": "O3eLrsWstPQZgCaOTqJs",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      822
+    ]
+  },
+  {
+    "shopID": 63,
+    "shopName": "UrbanPulse",
+    "owner": 63,
+    "address": "YxleffJ2BUOnKrpJxQvJ",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      584,
+      261,
+      865,
+      466,
+      62,
+      158,
+      699,
+      984,
+      532
+    ]
+  },
+  {
+    "shopID": 64,
+    "shopName": "BohemianBreeze",
+    "owner": 64,
+    "address": "egyVgtmFtI3SGo9pTZSA",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      894,
+      454,
+      334,
+      714,
+      405,
+      440,
+      413
+    ]
+  },
+  {
+    "shopID": 65,
+    "shopName": "LuxeLoom",
+    "owner": 65,
+    "address": "aHICUnO7jb7UkgX3XYsD",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      563,
+      277
+    ]
+  },
+  {
+    "shopID": 66,
+    "shopName": "UrbanUtopia",
+    "owner": 66,
+    "address": "3v9KA0eAAKQN29exdYi6",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      233,
+      717,
+      448,
+      680,
+      194,
+      103,
+      840,
+      213
+    ]
+  },
+  {
+    "shopID": 67,
+    "shopName": "CoastalCharms",
+    "owner": 67,
+    "address": "g71GHp7CC486WGYzYnEG",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      477,
+      787,
+      224,
+      405
+    ]
+  },
+  {
+    "shopID": 68,
+    "shopName": "TimelessAllure",
+    "owner": 68,
+    "address": "DWUc3oW7REq6TXlCmBXU",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      832,
+      217,
+      126,
+      294,
+      84,
+      51
+    ]
+  },
+  {
+    "shopID": 69,
+    "shopName": "ElegantEnsemble",
+    "owner": 69,
+    "address": "qoOB0wQmqtcpEaSoJrCY",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 70,
+    "shopName": "ElysianEcho",
+    "owner": 70,
+    "address": "e2B88ZwWSfviHTz3dLhq",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      908,
+      30,
+      386,
+      507,
+      63
+    ]
+  },
+  {
+    "shopID": 71,
+    "shopName": "TimelessTokens",
+    "owner": 71,
+    "address": "fJvjw7ule8hhfO45JuVH",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      792,
+      693,
+      159,
+      593
+    ]
+  },
+  {
+    "shopID": 72,
+    "shopName": "LuxeLoom",
+    "owner": 72,
+    "address": "8L1P4v0x0BcjJ1vwtSDZ",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      7,
+      623,
+      835,
+      443,
+      165,
+      719,
+      36
+    ]
+  },
+  {
+    "shopID": 73,
+    "shopName": "OceanWonders",
+    "owner": 73,
+    "address": "Ove3VkdaaLEMSdAgkNyx",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      583,
+      443,
+      328,
+      483,
+      275,
+      472,
+      426,
+      156,
+      191,
+      185
+    ]
+  },
+  {
+    "shopID": 74,
+    "shopName": "EnchantedGrove",
+    "owner": 74,
+    "address": "I4Q5SY8TyKk6suNcCjGd",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      447,
+      439,
+      107,
+      103,
+      438
+    ]
+  },
+  {
+    "shopID": 75,
+    "shopName": "WhimsiWorks",
+    "owner": 75,
+    "address": "r1anf1Qym54Cqw2WSwVY",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      113,
+      452,
+      847,
+      607,
+      675,
+      697,
+      548,
+      543,
+      767,
+      660
+    ]
+  },
+  {
+    "shopID": 76,
+    "shopName": "DreamWeave Emporium",
+    "owner": 76,
+    "address": "bJ8xjq7Ejkikg2K12907",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      660
+    ]
+  },
+  {
+    "shopID": 77,
+    "shopName": "TrendyTrinkets",
+    "owner": 77,
+    "address": "PJaDlKQ2rfTxxl94YA3A",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      284
+    ]
+  },
+  {
+    "shopID": 78,
+    "shopName": "Celestial Finds",
+    "owner": 78,
+    "address": "Q2aAVil6zCpZ63FKhX6A",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      925,
+      845,
+      553,
+      492,
+      301,
+      696,
+      146,
+      501,
+      375
+    ]
+  },
+  {
+    "shopID": 79,
+    "shopName": "UrbanUtopia",
+    "owner": 79,
+    "address": "KVf55sq8tAVA297VeBwY",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      127,
+      426,
+      897,
+      882,
+      676,
+      250
+    ]
+  },
+  {
+    "shopID": 80,
+    "shopName": "RadiantRendezvous",
+    "owner": 80,
+    "address": "KjK8zEVtDN9c6gHYqMQ8",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      78,
+      700,
+      410,
+      225
+    ]
+  },
+  {
+    "shopID": 81,
+    "shopName": "TreasuresTraverse",
+    "owner": 81,
+    "address": "5QlUvlUBR8W9KXSVBz8g",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      682,
+      585
+    ]
+  },
+  {
+    "shopID": 82,
+    "shopName": "GildedGrove",
+    "owner": 82,
+    "address": "B3HHQWfTvq21VmwFfjoV",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      284,
+      605,
+      79,
+      791,
+      723
+    ]
+  },
+  {
+    "shopID": 83,
+    "shopName": "UrbanUtopia",
+    "owner": 83,
+    "address": "9f7KrsKp6blwl84jmr1F",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      831,
+      664,
+      353,
+      312,
+      505,
+      952,
+      426,
+      423,
+      12,
+      360
+    ]
+  },
+  {
+    "shopID": 84,
+    "shopName": "WillowWhispers",
+    "owner": 84,
+    "address": "t5ItFmxIExh2GDhOpq0A",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      793,
+      464,
+      952,
+      469,
+      559,
+      963
+    ]
+  },
+  {
+    "shopID": 85,
+    "shopName": "CoastalMoods",
+    "owner": 85,
+    "address": "5Wv096pXJImsnrqmcX5C",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4",
+      "Post 5"
+    ],
+    "followers": [
+      304,
+      294
+    ]
+  },
+  {
+    "shopID": 86,
+    "shopName": "AuraAdornments",
+    "owner": 86,
+    "address": "lbxE3BwezJ1eQPDNOjhr",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      857,
+      14,
+      144,
+      573,
+      463,
+      322,
+      486,
+      585,
+      397,
+      354
+    ]
+  },
+  {
+    "shopID": 87,
+    "shopName": "ChicPetal",
+    "owner": 87,
+    "address": "FNj00UWUPvaL1iU38Yfj",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      401,
+      415
+    ]
+  },
+  {
+    "shopID": 88,
+    "shopName": "The Velvet Vignette",
+    "owner": 88,
+    "address": "ArhWaeOcyHCYdDDp9wDi",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      316,
+      538,
+      207,
+      667,
+      496,
+      881,
+      299
+    ]
+  },
+  {
+    "shopID": 89,
+    "shopName": "UptownCharm",
+    "owner": 89,
+    "address": "1HWKTcI0o446bSjca0tP",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      386,
+      535,
+      919,
+      827,
+      896,
+      308,
+      461,
+      459
+    ]
+  },
+  {
+    "shopID": 90,
+    "shopName": "ElegantEnsemble",
+    "owner": 90,
+    "address": "tTtSwtqOaFGGJqZ2A3yy",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      564
+    ]
+  },
+  {
+    "shopID": 91,
+    "shopName": "VintageVista",
+    "owner": 91,
+    "address": "AYaYsu40kP7aJiGp6CwK",
+    "posts": [
+      "Post 1",
+      "Post 2"
+    ],
+    "followers": [
+      481,
+      623,
+      330,
+      516
+    ]
+  },
+  {
+    "shopID": 92,
+    "shopName": "BlissfulBoutique",
+    "owner": 92,
+    "address": "jSZubtVCihFNVp4zIVME",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      294,
+      197,
+      827,
+      905
+    ]
+  },
+  {
+    "shopID": 93,
+    "shopName": "CoastalMoods",
+    "owner": 93,
+    "address": "rnaiABGJf25Ueb77dFoa",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      245,
+      950,
+      643,
+      781,
+      493,
+      630
+    ]
+  },
+  {
+    "shopID": 94,
+    "shopName": "GildedGrove",
+    "owner": 94,
+    "address": "ZmNzSAtUtjO1JNoBr8c3",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      116,
+      312,
+      192,
+      138,
+      582,
+      938,
+      559
+    ]
+  },
+  {
+    "shopID": 95,
+    "shopName": "FreshFinds",
+    "owner": 95,
+    "address": "sBHgS30jONoyJOtSCuyY",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 96,
+    "shopName": "TimelessAllure",
+    "owner": 96,
+    "address": "HlnXi380qpEeLGSOoxDu",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3"
+    ],
+    "followers": [
+      794
+    ]
+  },
+  {
+    "shopID": 97,
+    "shopName": "UrbanUtopia",
+    "owner": 97,
+    "address": "J0dTrDnTbDhmJieSTGDz",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": []
+  },
+  {
+    "shopID": 98,
+    "shopName": "The Hidden Gem Emporium",
+    "owner": 98,
+    "address": "kRFc9fQr5n9sWnMS69Zf",
+    "posts": [
+      "Post 1"
+    ],
+    "followers": [
+      853,
+      166,
+      857,
+      122,
+      540,
+      497
+    ]
+  },
+  {
+    "shopID": 99,
+    "shopName": "EnigmaticEmpire",
+    "owner": 99,
+    "address": "SLcRyJoBLD3FVPczHkB5",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      929,
+      731,
+      17,
+      376,
+      237,
+      59,
+      964
+    ]
+  },
+  {
+    "shopID": 100,
+    "shopName": "RadiantRetro",
+    "owner": 100,
+    "address": "jEqpP3qhTHbgknQVTvge",
+    "posts": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "Post 4"
+    ],
+    "followers": [
+      804
+    ]
+  }
+]

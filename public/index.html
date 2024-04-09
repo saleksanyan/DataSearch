@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        #searchInput {
+            width: 300px;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        #searchResults {
+            list-style-type: none;
+            padding: 0;
+        }
+        #searchResults li {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+        #searchResults li:last-child {
+            border-bottom: none;
+        }
+        .button {
+            background-color: #c5c6c5; 
+            border: none;
+            color: rgb(11, 2, 2);
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .info-box {
+            margin-bottom: 15px;
+            font-size: 16px;
+            color: #333;
+        }
+
+        .info-box p {
+            margin: 0;
+            padding: 5px 0;
+        }
+
+        .info-box .info-title {
+            font-weight: bold;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1>Search Data</h1>
+    <input type="text" id="searchInput" placeholder="Search for a word...">
+    <ul id="searchResults"></ul>
+
+    <script>
+        const searchInput = document.getElementById('searchInput');
+        const searchResults = document.getElementById('searchResults');
+
+        const filePath = 'data/users/user.json';
+        let usersData;
+
+        async function readJsonFile(filePath) {
+            try {
+                const response = await fetch(filePath);
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch ${filePath}: ${response.status} ${response.statusText}`);
+                }
+                return await response.json();
+            } catch (error) {
+                console.error(`Error reading JSON file ${filePath}:`, error);
+                return null;
+            }
+        }
+
+        async function initialize() {
+            try {
+                usersData = await readJsonFile(filePath);
+                if (!usersData) {
+                    console.error("Failed to load users data.");
+                }
+
+                searchInput.addEventListener('input', function() {
+                    const query = this.value.trim();
+                    if (query.length === 0) {
+                        searchResults.innerHTML = '';
+                    } else {
+                        search(query);
+                    }
+                });
+            } catch (error) {
+                console.error("Error initializing:", error);
+            }
+        }
+
+        function displaySearchResults(matchingData) {
+            searchResults.innerHTML = '';
+
+            for (let i = 0; i < matchingData.length; i++) {
+                const keys = Object.keys(matchingData[i]);
+                if (keys[0] === 'cars') {
+                    const carList = matchingData[i].cars;
+                    carList.forEach(car => {
+                        const li = createListItem(car, 'car');
+                        searchResults.appendChild(li);
+                    });
+                } else if (keys[0] === 'shops') {
+                    const shopList = matchingData[i].shops;
+                    shopList.forEach(shop => {
+                        const li = createListItem(shop, 'shop');
+                        searchResults.appendChild(li);
+                    });
+                } else {
+                    const usersList = matchingData[i].users;
+                    usersList.forEach(userData => {
+                        const li = createListItem(userData, 'user');
+                        searchResults.appendChild(li);
+                    });
+                }
+            }
+        }
+
+        function createListItem(data, type) {
+            const li = document.createElement('li');
+            const link = document.createElement('a');
+            if (type === 'user') {
+                link.href = '#'; 
+                link.textContent = `${data.firstName} ${data.lastName}`;
+                link.addEventListener('click', (event) => {
+                    event.preventDefault();
+                    displayUserInfo(data);
+                });
+            } else if (type === 'car') {
+                link.href = `https://example.com/cars/${data.carName}`; 
+                link.textContent = data.carName;
+                link.addEventListener('click', (event) => {
+                    event.preventDefault();
+                    displayCarInfo(data);
+                });
+            } else if (type === 'shop') {
+                link.href = `https://example.com/shops/${data.shopName}`; 
+                link.textContent = data.shopName;
+                link.addEventListener('click', (event) => {
+                    event.preventDefault();
+                    displayShopInfo(data);
+                });
+            }
+            link.classList.add('button');
+            li.appendChild(link);
+            return li;
+        }
+
+
+
+        function displayUserInfo(userData) {
+            searchResults.innerHTML = '';
+
+            const userInfoDiv = document.createElement('div');
+            userInfoDiv.classList.add('info-box');
+            userInfoDiv.innerHTML = `<p><span class="info-title">Name:</span> ${userData.firstName} ${userData.lastName}</p>` +
+                                    `<p><span class="info-title">Age:</span> ${userData.age}</p>`;
+            searchResults.appendChild(userInfoDiv);
+        }
+
+        function displayCarInfo(car) {
+            searchResults.innerHTML = '';
+                const carNameDiv = document.createElement('div');
+            carNameDiv.classList.add('info-box');
+            carNameDiv.innerHTML = `<p><span class="info-title">Car:</span> ${car.carName}</p>`;
+            searchResults.appendChild(carNameDiv);
+            const ownersDiv = document.createElement('div');
+            ownersDiv.classList.add('info-box');
+            ownersDiv.innerHTML = `<p><span class="info-title">Owner(s):</span> ${car.owners.map(ownerId => {
+                const owner = usersData[ownerId];
+                return `${owner.firstName} ${owner.lastName}`;
+            }).join(', ')}</p>`;
+            searchResults.appendChild(ownersDiv);
+        }
+
+
+        function displayShopInfo(shop) {
+            searchResults.innerHTML = '';
+            const shopInfoDiv = document.createElement('div');
+            shopInfoDiv.classList.add('info-box');
+            shopInfoDiv.innerHTML = `<p><span class="info-title">Shop:</span> ${shop.shopName}</p>` +
+                                    `<p><span class="info-title">Owner:</span> ${usersData[shop.owner].firstName} ${usersData[shop.owner].lastName}</p>` +
+                                    `<p><span class="info-title">Address:</span> ${shop.address}</p>`;
+            searchResults.appendChild(shopInfoDiv);
+        }
+
+        function createLinkListItem(href, textContent, clickHandler) {
+            const li = document.createElement('li');
+            const link = document.createElement('a');
+            link.href = href;
+            link.textContent = textContent;
+            link.addEventListener('click', clickHandler);
+            li.appendChild(link);
+            return li;
+        }
+
+        function search(query) {
+            fetch('/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ value: query })
+            })
+            .then(response => response.json())
+            .then(data => {
+                displaySearchResults(data);
+            })
+            .catch(error => {
+                console.error('Error searching:', error);
+            });
+        }
+
+        initialize();
+
+    </script>
+</body>
+</html>
