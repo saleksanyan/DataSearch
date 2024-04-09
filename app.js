@@ -61,7 +61,7 @@ function searchInDB(database, searchableText) {
 
         for (const key in data) {
             if (key !== "id" && key !== "friends" && key !== "followers" && key !== "carID" 
-            && key !== "shopID" && key!== "owner" && key!== "owners" && data.hasOwnProperty(key)) {
+            && key !== "shopID" && key!== "owner" && key!== "owners" && key!= "posts" && key!= "car" && data.hasOwnProperty(key)) {
                 matchCount += searchingAlgorithm.searchText(String(data[key]), searchableText);
             }
         }
