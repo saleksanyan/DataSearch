@@ -31,3 +31,11 @@ The database currently contains three tables: user, car, and shop.
     Run the project.
     Type the data that interests you into the search bar.
     Click on the preferred user/shop/car to get more information about it.
+
+
+# How to run the project
+
+
+    clone the project
+    write 
+    nodemon app.js
